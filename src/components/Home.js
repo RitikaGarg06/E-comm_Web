@@ -27,7 +27,7 @@ const Home = () => {
           </li>
           <li>
             <a href="cart.html">
-              <i className="far fa-shopping-bag"></i>
+              <i className="fa fa-shopping-bag"></i>
             </a>
           </li>
         </ul>
